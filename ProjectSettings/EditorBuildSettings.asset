@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: e41181d0a93f95341a47cc6a692ebd89
+  - enabled: 1
+    path: Assets/Scenes/1secStage.unity
+    guid: 69f6ce4112a523d4eac8e156f99f914d
+  - enabled: 0
+    path: Assets/Scenes/xGameOver.unity
+    guid: e89afe2d16695a64b94f6f0582f6264e
+  - enabled: 1
+    path: Assets/Scenes/10secStage.unity
+    guid: 1a7342f65e3c86c4292e75bbf6d7c786
+  - enabled: 0
+    path: Assets/Scenes/xGameClear.unity
+    guid: 1fe9b9311ddd4c84bbd1afe9c40359f7
+  - enabled: 1
+    path: Assets/Scenes/ExplanationScene.unity
+    guid: 7b10195ab997b0c499ec1f0883fbaf5a
+  - enabled: 1
+    path: Assets/Scenes/GameClear.unity
+    guid: 6d4108fa06400bd49baee5fef129483d
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: b1934c6d61b7c8e49a42af0e8a29f551
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: f3449a7cc33077f4ba0b9600864a2768
+  - enabled: 1
+    path: Assets/Scenes/OptionScene.unity
+    guid: 291ed0be2a0f20049bca17173c16ffcd
+  - enabled: 1
+    path: Assets/Scenes/StageSelectScene.unity
+    guid: a4b8ed726681dc546874d05658c82a57
+  - enabled: 1
+    path: Assets/Scenes/GameOver2.unity
+    guid: 5dd584420f216de4a8d5988323ba5051
+  m_configObjects: {}
